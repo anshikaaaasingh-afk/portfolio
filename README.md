@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 💼 Personal Portfolio Website
 
 A clean, professional, and fully interactive personal portfolio website built with **HTML, CSS, and JavaScript** — no frameworks needed.
@@ -69,6 +68,3 @@ MIT — free to use and modify.
 ---
 
 ⭐ If you found this helpful, give it a star on GitHub!
-=======
-# portfolio
->>>>>>> 90619a94abdf1ee0fd0a5a920623d128918d3366
