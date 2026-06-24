@@ -67,4 +67,5 @@ MIT — free to use and modify.
 
 ---
 
-⭐ If you found this helpful, give it a star on GitHub!
+⭐ If you found this helpful, give it a star on GitHub! 
+author -anshika singh 
